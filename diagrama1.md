@@ -1,3 +1,4 @@
+```mermaid
 graph TD
 
 subgraph Início
@@ -21,3 +22,4 @@ subgraph Condições
     B --> J((Turista desconhece funções do site))
 end
 
+```
